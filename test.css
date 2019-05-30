@@ -1,0 +1,7 @@
+div{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-transform: scale(.8);
+            transform: scale(.8);
+}
